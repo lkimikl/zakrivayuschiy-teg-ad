@@ -1,1 +1,17 @@
-/* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root {
+  --font-main: Inter-Varible;
+  --font-accent: PressStart2P;
+  --bg-color: #fff;
+  --hover-button-text-color: #fff;
+  --text-color: #000;
+  --accent-color: #000;
+  --animation-color: red;
+  --base-weight: 400;
+  --heading-weight: 700;
+  --border: 1px solid #000;
+  --text-stroke-color: rgb(255 255 255 / 0.5);
+  --core-fill-color: transparent;
+  --contour-fill-color: #000;
+  --main-body-fill-color: transparent;
+  --sparks-fill-color: red;
+}
